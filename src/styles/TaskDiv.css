@@ -1,0 +1,17 @@
+.divForTaskName{
+    border: 1px solid black;
+    width: 50%;
+    border-radius: 90px;
+    margin: auto;
+    margin-bottom: 0.5rem;
+}
+
+.taskName{
+    display: flex;
+}
+
+.check{
+    width: 1.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
