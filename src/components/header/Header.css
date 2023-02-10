@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerRight{
+    display: flex;
+    margin-top: 2rem;
+}
+
+.logOutButton{
+    height: 2rem;
+}
+
+.userName{
+    margin-right: 1rem;
+    margin-top: 0rem;
+}

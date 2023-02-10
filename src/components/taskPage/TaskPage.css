@@ -1,0 +1,17 @@
+.footer{
+    position: absolute;
+    bottom: 0;
+    right: 30%;
+    left: 30%;
+}
+
+.backButton{
+    height: 4rem;
+    width: 15rem;
+}
+
+.descriptionDiv{
+    width: 80%;
+    background-color: #bde5f0;
+    margin: 0 auto;
+}

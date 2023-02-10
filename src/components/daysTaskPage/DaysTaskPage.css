@@ -1,0 +1,44 @@
+.days{
+    display: -webkit-inline-box;
+    width: 100%;
+    overflow-x: scroll;
+    height: 6rem;
+}
+
+.taskPageDiv{
+    width: 90%;
+    padding: 0rem 2rem;
+}
+
+.dayDiv{
+    height: 5rem;
+    width: 100%;
+    border-radius: 10px;
+    border-style: none;
+    background-color: #bcdaf5;
+}
+
+.buttonsDiv{
+    width: 4rem;
+    margin-right: 0.5rem;
+}
+
+.date{
+    margin: 0rem;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    right: 30%;
+    left: 30%;
+}
+
+.createTaskButton{
+    height: 4rem;
+    width: 15rem;
+}
